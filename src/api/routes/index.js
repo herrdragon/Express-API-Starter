@@ -3,8 +3,8 @@
 
 const express = require('express');
 const router = express.Router();
-const quoteRoutes = require('./quoteRoutes');
+const someRoutes = require('./someRoutes');
 
-router.use('/quote', quoteRoutes);
+router.use('/here', quoteRoutes);
 
 module.exports = router;
