@@ -1,4 +1,4 @@
-// index.js main entry point
+// index.js main entry point to app
 "use strict";
 
 const app = require('./config/express');
