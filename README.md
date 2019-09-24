@@ -1,5 +1,5 @@
 # Express-API-Starter
-This javascript repo is based on the typescipt repo [bulletproof-nodejs](https://github.com/santiq/bulletproof-nodejs)
+This javascript repo is based on the typescript repo [bulletproof-nodejs](https://github.com/santiq/bulletproof-nodejs)
 
 ### Installation
 
