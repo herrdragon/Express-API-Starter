@@ -1,7 +1,7 @@
 {
-  "name": "ripple-midleware",
+  "name": "Express-API",
   "version": "1.0.0",
-  "description": "Inplementation of Ripple API",
+  "description": "",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
